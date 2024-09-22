@@ -1,6 +1,5 @@
 Low-Level-Application-Design
 🌟 This project showcases a low-level application design using Java, emphasizing key Object-Oriented Design (OOD) principles for creating scalable and maintainable software.
-
 Key Features:
 🔧 OOD Principles: Designed for modularity and reusability.
 📏 SOLID Principles: Ensuring clean architecture and easy maintenance.
